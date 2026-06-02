@@ -1,2 +1,0 @@
-# running-tracker
-running-tracker
